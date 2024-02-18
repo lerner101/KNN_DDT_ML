@@ -28,6 +28,3 @@ The project encompasses several key phases:
 
 This repository serves as a resource for individuals interested in machine learning, particularly in the context of health data analysis. It offers a practical guide on implementing classic classification algorithms and provides a foundation for further exploration and development of machine learning models.
 
-### Contributions
-
-This project is an independent effort designed to explore the capabilities of KNN and Decision Trees in the field of health informatics. It invites collaboration and contributions from those interested in advancing the understanding and application of machine learning techniques in healthcare analysis.
